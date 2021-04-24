@@ -7,6 +7,17 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.0.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-dns/compare/v3.1.0...v4.0.0) (2021-04-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* add Terraform 0.13 constraint and module attribution (#22)
+
+### Features
+
+* add Terraform 0.13 constraint and module attribution ([#22](https://www.github.com/terraform-google-modules/terraform-google-cloud-dns/issues/22)) ([52cd08a](https://www.github.com/terraform-google-modules/terraform-google-cloud-dns/commit/52cd08aa53bb3123412ca09b4a9bc63e011a2393))
+
 ## [3.1.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-dns/compare/v3.0.2...v3.1.0) (2020-11-22)
 
 
